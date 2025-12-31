@@ -1,0 +1,46 @@
+{
+  "id": "root",
+  "title": "Vitamins in Human Body",
+  "summary": "Essential micronutrients required for normal metabolic function, growth, and overall health.",
+  "children": [
+    {
+      "id": "dietary",
+      "title": "Dietary Sources",
+      "summary": "Sources of vitamins obtained through food.",
+      "children": [
+        {
+          "id": "fruits",
+          "title": "Fruits & Vegetables",
+          "summary": "Rich in vitamins and antioxidants."
+        },
+        {
+          "id": "animal",
+          "title": "Animal-Based Sources",
+          "summary": "Includes meat, dairy, and eggs."
+        }
+      ]
+    },
+    {
+      "id": "roles",
+      "title": "Key Bodily Roles",
+      "summary": "Support immunity, metabolism, and growth."
+    },
+    {
+      "id": "classification",
+      "title": "Vitamin Classification",
+      "summary": "Based on solubility.",
+      "children": [
+        {
+          "id": "water",
+          "title": "Water-Soluble Vitamins",
+          "summary": "Includes Vitamin B-complex and Vitamin C."
+        },
+        {
+          "id": "fat",
+          "title": "Fat-Soluble Vitamins",
+          "summary": "Includes Vitamins A, D, E, and K."
+        }
+      ]
+    }
+  ]
+}
