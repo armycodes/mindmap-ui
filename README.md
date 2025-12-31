@@ -100,6 +100,19 @@ Screenshots are included to demonstrate:
 - Node selection & side panel
 - Expanded and collapsed states
 
+##after clicking fit view button
+<img width="1920" height="1080" alt="after clicking fit view button" src="https://github.com/user-attachments/assets/b7c673b8-bb8e-4d6d-a61d-1899d1eeb80c" />
+##Before clicking fit view button
+<img width="1920" height="1080" alt="Before clicking fit view button" src="https://github.com/user-attachments/assets/e3ae0a00-b6e6-4ef4-9f7d-1daf5d5cfa19" />
+##Expanded and collapsed state
+<img width="1920" height="1080" alt="Expanded and collapsed state" src="https://github.com/user-attachments/assets/c8e3e842-d2f6-480a-9878-11185b90ce7b" />
+##Short summary_Tooltip
+<img width="1920" height="1080" alt="Short summary_Tooltip" src="https://github.com/user-attachments/assets/84039781-6880-4a44-97d0-4e185626361d" />
+##Node Selection_Description display
+<img width="1920" height="1080" alt="Node Selection_Description display" src="https://github.com/user-attachments/assets/e6f407f9-edda-4003-afa4-e917dffa9b0d" />
+##Full Mindmap view Pic
+<img width="1920" height="1080" alt="Full Pic" src="https://github.com/user-attachments/assets/e0cf51a4-d476-4b00-a360-fda7fab7d4e4" />
+
 ---
 
 ## 🎥 Demo Video
@@ -109,10 +122,6 @@ A short demo video is included showing:
 - Expand / collapse behavior
 - Editing node details
 - Fit View functionality
-
-<img width="1920" height="1080" alt="after clicking fit view button" src="https://github.com/user-attachments/assets/b7c673b8-bb8e-4d6d-a61d-1899d1eeb80c" />
-<img width="1920" height="1080" alt="Before clicking fit view button" src="https://github.com/user-attachments/assets/e3ae0a00-b6e6-4ef4-9f7d-1daf5d5cfa19" />
-
 
 
 ---
