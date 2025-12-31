@@ -123,7 +123,7 @@ A short demo video is included showing:
 - Editing node details
 - Fit View functionality
 
-
+Video Link: https://drive.google.com/file/d/1JxEtH72zNQ85s7DqZBTxC5kFWhchc7Cm/view?usp=sharing
 ---
 
 ## 📝 Notes & Assumptions
