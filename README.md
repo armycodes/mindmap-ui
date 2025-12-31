@@ -110,6 +110,11 @@ A short demo video is included showing:
 - Editing node details
 - Fit View functionality
 
+<img width="1920" height="1080" alt="after clicking fit view button" src="https://github.com/user-attachments/assets/b7c673b8-bb8e-4d6d-a61d-1899d1eeb80c" />
+<img width="1920" height="1080" alt="Before clicking fit view button" src="https://github.com/user-attachments/assets/e3ae0a00-b6e6-4ef4-9f7d-1daf5d5cfa19" />
+
+
+
 ---
 
 ## 📝 Notes & Assumptions
